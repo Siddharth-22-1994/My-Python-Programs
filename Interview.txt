@@ -1,0 +1,20 @@
+1. About Python
+2. Datatypes - Database is systamatic collection of data.
+11. Reference - A reference is a name that refers to the specific location in memory of a value (object).
+Def:
+    Python optimizes memory allocation by allocating the same object reference to the new 
+    variable if object exist with same value.
+12. Abstract class
+3. diff between list and array
+
+4. Memory management
+    Objects that do not have any variable refering to them is called dead objects.
+    Grbage collector removes the dead objects from memory.
+        i).Garbage Collection - The algorithm used for Garbage collecion is 
+        Reference Counting
+        Note:  Java Garbage collection Algorith - Mark and sweep Algorithm
+6. Database
+7. Server
+8. Diff between Parameters and Arguments
+9. about Django
+10.diff bewteen django and flask
